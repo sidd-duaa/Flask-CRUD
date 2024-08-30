@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    text-align: center;
+    width: 30%;
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+    
+}
+th, td {
+    border: 1px black solid;
+    padding: 8px;
+    text-align: left;
+}
